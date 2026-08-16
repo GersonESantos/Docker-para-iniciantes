@@ -8,7 +8,8 @@
 
 A instalação recomendada do **Docker Engine** em distribuições baseadas em Debian/Ubuntu (como Ubuntu, Linux Mint e Pop!\_OS) é feita diretamente pelo repositório oficial da Docker. Siga o passo a passo no terminal:
 
-sudo docker run -d -p 8080:80 --name meu-primeiro-site nginx
+sudo docker run -d -p 8080:80 --name meu-primeiro-site nginx 
+ http://localhost:8080/
 
 ### Passo 1: Atualizar o sistema e instalar dependências
 
